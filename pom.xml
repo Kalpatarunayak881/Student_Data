@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.nit</groupId>
 	<artifactId>Springboot_restAPI_Projwith_JSON-1</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version> 
 	<name>Springboot_restAPI_Projwith_JSON-1</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
